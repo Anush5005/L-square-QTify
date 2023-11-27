@@ -1,0 +1,26 @@
+.title {
+  font-size: 20px;
+  color: white;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 42px;
+}
+
+.section {
+  padding: 10px 32px;
+  width: 100%;
+}
+/* .section-header {
+  display: flex;
+  justify-content: space-between;
+}
+.section-toggle-btn {
+  font-size: 20px;
+  font-weight: 600;
+  color: green;
+  cursor: pointer;
+} */
